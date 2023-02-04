@@ -7,3 +7,4 @@
 一月
 
 - 第 1 期：[Optimizing The Image Element LCP, Announcing TypeScript 5.0 Beta...](https://github.com/WJCHumble/weekly-article-en/issues/1)
+- 第 2 期：[The Future of Create React App and Why It Exists, The Future of Micro Frontends...](https://github.com/WJCHumble/weekly-article-en/issues/2)
