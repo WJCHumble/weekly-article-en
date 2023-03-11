@@ -15,3 +15,8 @@
 - 第 3 期：[Type-fest, a collection of essential TypeScript types, Easy SVG Customization And Animation: A Practical Guide...](https://github.com/WJCHumble/weekly-article-en/issues/3)
 - 第 4 期：[Top 10 Web Dev Technologies You Should Aware in 2022, How good is your TypeScript? Interview with just 3 questions... ](https://github.com/WJCHumble/weekly-article-en/issues/4)
 - 第 5 期：[useSignal() is the Future of Web Frameworks, What to Expect from Vue in 2023 and How it Differs from React...](https://github.com/WJCHumble/weekly-article-en/issues/5)
+
+
+三月
+
+- 第 6 期：[Rspack, A fast Rust-based web bundler, What to expect from Typescript 5.0...](https://github.com/WJCHumble/weekly-article-en/issues/6)
