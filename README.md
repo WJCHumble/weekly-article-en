@@ -21,3 +21,4 @@
 
 - 第 6 期：[Rspack, A fast Rust-based web bundler, What to expect from Typescript 5.0...](https://github.com/WJCHumble/weekly-article-en/issues/6)
 - 第 7 期：[React Dev, A Brief History of Reactivity, 7 Small & Underrated React Libraries, Minisearch...](https://github.com/WJCHumble/weekly-article-en/issues/7)
+- 第 8 期：[CSS Nesting is now available with Vanilla CSS, ChatGPT: Your New Best Friend in Frontend Development, Google bard experiment...](https://github.com/WJCHumble/weekly-article-en/issues/8)
