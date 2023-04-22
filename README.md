@@ -1,7 +1,5 @@
 # weekly-article-en
 
-用于分享每周我阅读过并值得推荐的**英文技术文章**。
-
 ## 2023
 
 一月
@@ -26,3 +24,4 @@
 四月
 
 - 第 9 期：[6 CSS snippets every front-end developer should know in 2023, Using TypeScript Recursive Types Like a Pro..](https://github.com/WJCHumble/weekly-article-en/issues/9)
+- 第 10 期：[Chrome ships WebGPU, A CSS selector to highlight clickable elements, The Real Difference Between useMemo and memo in React...](https://github.com/WJCHumble/weekly-article-en/issues/10)
