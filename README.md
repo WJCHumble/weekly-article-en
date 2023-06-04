@@ -25,3 +25,7 @@
 
 - 第 9 期：[6 CSS snippets every front-end developer should know in 2023, Using TypeScript Recursive Types Like a Pro..](https://github.com/WJCHumble/weekly-article-en/issues/9)
 - 第 10 期：[Chrome ships WebGPU, A CSS selector to highlight clickable elements, The Real Difference Between useMemo and memo in React...](https://github.com/WJCHumble/weekly-article-en/issues/10)
+
+六月
+
+- 第 11 期：[ts-sql-query for building SQL queries in a type-safe way, javy is a WebAssembly (WASM) runtime written in Rust...](https://github.com/WJCHumble/weekly-article-en/issues/11)
