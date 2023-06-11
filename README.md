@@ -29,3 +29,4 @@
 六月
 
 - 第 11 期：[ts-sql-query for building SQL queries in a type-safe way, javy is a WebAssembly (WASM) runtime written in Rust...](https://github.com/WJCHumble/weekly-article-en/issues/11)
+- 第 12 期：[astmaker, a tool for generating Abstract Syntax Trees (ASTs) for JavaScript code, Sass-like nesting in native CSS, it is about how to achieve Sass-like nesting in native CSS...](https://github.com/WJCHumble/weekly-article-en/issues/12)
